@@ -1,0 +1,22 @@
+{
+  "name": "autopull",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dai1254473705/autopull.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dai1254473705/autopull/issues"
+  },
+  "homepage": "https://github.com/dai1254473705/autopull#readme",
+  "dependencies": {
+    "github-webhook-handler": "^1.0.0"
+  }
+}
